@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+
+target 'MM' do
+
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'MJRefresh'  #下拉刷新组件
+pod 'SYPhotoBrowser' #相册
+#pod 'Reveal-SDK', :configurations => ['Debug']
+
+end
